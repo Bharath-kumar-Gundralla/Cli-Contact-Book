@@ -10,19 +10,19 @@ A command-line based contact management system written in **C**, with support fo
   - Name
   - Phone Number (must be unique)
   - Email ID (must be unique)
-  - 
+    
 - 🔍 Search contacts by:
   - Name (partial match supported)
   - Phone Number
   - Email ID
-  - 
+    
 - ✏️ Edit existing contact details:
   - Change name, phone number, or email
   - All changes validated for correctness and uniqueness
-  - 
+    
 - 🗑️ Delete contact:
   - Search and delete any contact from the list
-  - 
+    
 - 🧠 Input validations:
   - Name should only contain alphabets and spaces
   - Phone number should be digits and of correct length
